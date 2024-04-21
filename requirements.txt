@@ -1,0 +1,8 @@
+Flask>=2.0
+Flask-WTF>=0.15.1  # For form handling and validation
+Flask-Uploads>=0.2.1  # For file uploads
+Flask-CORS>=3.0.10  # For Cross-Origin Resource Sharing
+pyqrcode>=1.2.1  # For QR code generation
+pillow>=9.0.0  # For image processing, useful for file previews
+Werkzeug>=2.0  # Flask's underlying server framework
+Flask-SocketIO>=5.3.0  # For real-time communication, if needed
